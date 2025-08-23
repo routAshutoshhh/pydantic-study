@@ -1,4 +1,4 @@
-from pydantic import BaseModel
+from pydantic import BaseModel#type:ignore
 
 
 #creating class which is basically the model
