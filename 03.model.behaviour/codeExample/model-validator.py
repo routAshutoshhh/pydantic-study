@@ -3,6 +3,7 @@ from pydantic import BaseModel,Field , field_validator,model_validator,computed_
 
 #writing the customised validator for each field - its a decorator 
 
+#understanding the feild-validator
 class User(BaseModel):
     username: str
 

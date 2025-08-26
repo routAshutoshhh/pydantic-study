@@ -4,4 +4,5 @@ learning the following things while coding in pydantic and making pydantic class
 
 1.  making foundational base models
 2.  doing validation and putting constraints using feilds
-3.  understanding model behaviour
+3.  understanding model behaviour - understanding validation for model and field validator and the computed field
+4.
